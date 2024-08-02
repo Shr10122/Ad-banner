@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Flash Sale: 24 Hours Only!",
+    "description": "Grab the best deals before they disappear. Up to 50% off on selected items!",
+    "cta": "Shop Flash Sale",
+    "image": "https://images.unsplash.com/photo-1580828343064-fde4fc206bc6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEZsYXNoJTIwU2FsZSUzQSUyMDI0JTIwSG91cnMlMjBPbmx5fGVufDB8fDB8fHww",
+    "background": "https://media.istockphoto.com/id/675020930/photo/textured-dark-vignette-black-background.jpg?s=2048x2048&w=is&k=20&c=CWymtsqhn1PtlV3HoVLLRfDCqoElruybamNJtuBGXd4="
+  },
+  {
+    "id": 2,
+    "title": "Go Green: Eco-Friendly Choices",
+    "description": "Sustainable products that make a difference. Shop our eco-friendly collection now!",
+    "cta": "Explore Eco Collection",
+    "image": "https://plus.unsplash.com/premium_photo-1678865183765-696a4b1887d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8JTIyR28lMjBHcmVlbiUzQSUyMEVjbyUyMEZyaWVuZGx5JTIwQ2hvaWNlcyUyMHByb2R1Y3RzfGVufDB8fDB8fHww",
+    "background": "https://media.istockphoto.com/id/675020930/photo/textured-dark-vignette-black-background.jpg?s=2048x2048&w=is&k=20&c=CWymtsqhn1PtlV3HoVLLRfDCqoElruybamNJtuBGXd4="
+  },
+  {
+    "id": 3,
+    "title": "Seasonal Trends: Fall Collection",
+    "description": "Embrace the latest styles of the season with our exclusive fall collection.",
+    "cta": "Shop the Trends",
+    "image": "https://media.istockphoto.com/id/626854038/photo/women-clothing-fall-winter-collection.jpg?s=2048x2048&w=is&k=20&c=K0UJjfwLX7eOLm85eBbqB_W71PvYINSsVyh7DFAopqA=",
+    "background": "https://media.istockphoto.com/id/675020930/photo/textured-dark-vignette-black-background.jpg?s=2048x2048&w=is&k=20&c=CWymtsqhn1PtlV3HoVLLRfDCqoElruybamNJtuBGXd4="
+  },
+  {
+    "id": 4,
+    "title": "Future Tech: Latest Gadgets",
+    "description": "Explore cutting-edge technology and gadgets that will change the way you live.",
+    "cta": "Discover Now",
+    "image": "https://plus.unsplash.com/premium_photo-1718198498856-0e433917c1d0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RnV0dXJlJTIwVGVjaCUzQSUyMExhdGVzdCUyMEdhZGdldHN8ZW58MHx8MHx8fDA%3D",
+    "background": "https://media.istockphoto.com/id/675020930/photo/textured-dark-vignette-black-background.jpg?s=2048x2048&w=is&k=20&c=CWymtsqhn1PtlV3HoVLLRfDCqoElruybamNJtuBGXd4="
+  },
+  {
+    "id": 5,
+    "title": "Adventure Awaits: Travel Deals",
+    "description": "Book your next adventure with our exclusive travel deals and save big!",
+    "cta": "Plan Your Trip",
+    "image": "https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEFkdmVudHVyZSUyMEF3YWl0cyUzQSUyMFRyYXZlbCUyMERlYWxzfGVufDB8fDB8fHww",
+    "background": "https://images.unsplash.com/photo-1513731079754-cd2b09b36587?w=2070&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Wellness Boost: Health Products",
+    "description": "Enhance your well-being with our range of health and wellness products.",
+    "cta": "Shop Wellness",
+    "image": "https://images.unsplash.com/photo-1535914254981-b5012eebbd15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFdlbGxuZXNzJTIwQm9vc3QlM0ElMjBIZWFsdGglMjBQcm9kdWN0c3xlbnwwfHwwfHx8MA%3D%3D",
+    "background": "https://images.unsplash.com/photo-1513731079754-cd2b09b36587?w=2070&auto=format&fit=crop&q=80"
+  }
+] 
