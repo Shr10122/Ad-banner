@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js Ad Banners Project
 
 ## Description
@@ -28,3 +29,6 @@ This project is a Next.js application that displays a list of ad banners on the 
 - React Hot Toast
 - Tailwind CSS (for styling)
 - Next.js Image Component
+=======
+# Ad-banner
+>>>>>>> 74209356f019baa6f65368ec907deccaf80a1214
