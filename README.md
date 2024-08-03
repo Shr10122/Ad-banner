@@ -30,5 +30,5 @@ This project is a Next.js application that displays a list of ad banners on the 
 - Tailwind CSS (for styling)
 - Next.js Image Component
 =======
-# Ad-banner
->>>>>>> 74209356f019baa6f65368ec907deccaf80a1214
+# Deployment 
+- Deployment URL:"https://ad-banner-git-main-shreyas-ss-projects-ba2710aa.vercel.app/"
